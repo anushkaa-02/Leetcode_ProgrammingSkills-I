@@ -6,6 +6,9 @@
 </p>
 
 ---
+
+- ## Basic Datatype (Day1)
+
 | #           | Title                                       | Solution  | Difficulty|
 | ----------- | -----------                                 |-----------|---------- |
 | 1523        | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)|[C++](leetcode_Solutions/Day1/Count_Odd_Numbers.md)| Easy|
