@@ -19,3 +19,6 @@ public:
         return output;
     }
 };
+```
+## Tags
+`Math`
