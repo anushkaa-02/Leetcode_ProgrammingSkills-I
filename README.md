@@ -21,6 +21,13 @@
 | 191        | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C++](leetcode_Solutions/Day2/Number_of_one_bits.md) | Easy |
 | 1281     | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [C++](leetcode_Solutions/Day2/Sub_productAndsum_of_digits.md) | Easy |
 
+---
+- ## Conditional Statements (Day3)
+| #           | Title                                       | Solution  | Difficulty|
+| ----------- | -----------                                 |-----------|---------- |
+| 976         | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day3/Largest%20Perimeter%20Triangle.md) | Easy |
+| 1779   | [Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day3/Find%20Nearest%20Point.md) | Easy |
+
 
 
 
