@@ -28,6 +28,14 @@
 | 976         | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day3/Largest%20Perimeter%20Triangle.md) | Easy |
 | 1779   | [Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day3/Find%20Nearest%20Point.md) | Easy |
 
+---
+- ## Loop (Day4)
+| #           | Title                                       | Solution  | Difficulty|
+| ----------- | -----------                                 |-----------|---------- |
+| 1822        | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day4/Sign_of%20the%20Product%20of%20an%20Array.md) | Easy |
+| 1502   | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day4/Can%20Make%20Arithmetic%20Progression%20From%20Sequence.md) |Easy|
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day4/Happy_Number.md) | Easy |
+| 1790 | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day4/String_Swap.md) | Easy |
 
 
 
