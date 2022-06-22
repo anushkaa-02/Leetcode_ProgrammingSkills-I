@@ -1,0 +1,1 @@
+# Can Make Arithmetic Progression From Sequence
