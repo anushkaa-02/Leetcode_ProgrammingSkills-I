@@ -43,5 +43,5 @@ public:
 };
 ```
 
-# Tags
+## Tags
 `Hash Table` `Math` `Two Pointer`
