@@ -37,6 +37,13 @@
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day4/Happy_Number.md) | Easy |
 | 1790 | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day4/String_Swap.md) | Easy |
 
+---
+- ## Function (Day5)
+| #           | Title                                       | Solution  | Difficulty|
+| ----------- | -----------                                 |-----------|---------- |
+| 589   | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day5/N-ary%20Tree%20Preorder%20Traversal.md) | Easy |
+| 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day5/Next%20Greater%20Element%20I.md) | Easy |
+| 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day5/Check%20if%20it%20a%20straight%20line.md) | Easy |
 
 
 
