@@ -45,6 +45,14 @@
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day5/Next%20Greater%20Element%20I.md) | Easy |
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day5/Check%20if%20it%20a%20straight%20line.md) | Easy |
 
+---
+- ## Array (Day6)
+| #           | Title                                       | Solution  | Difficulty|
+| ----------- | -----------                                 |-----------|---------- |
+| 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day6/Sum%20of%20All%20Odd%20Length%20Subarrays.md) | Easy |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day6/Move%20Zeroes.md) | Easy |
+| 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day6/Richest%20Customer%20Wealth.md) | Easy |
+
 
 
 
