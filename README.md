@@ -53,6 +53,13 @@
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day6/Move%20Zeroes.md) | Easy |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day6/Richest%20Customer%20Wealth.md) | Easy |
 
+---
+- ## Array (Day7)
+| #           | Title                                       | Solution  | Difficulty|
+| ----------- | -----------                                 |-----------|---------- |
+| 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day7/Matrix%20Diagonal%20Sum.md) | Easy |
+| 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day7/Reshape%20the%20Matrix.md) | Easy |
+
 
 
 
