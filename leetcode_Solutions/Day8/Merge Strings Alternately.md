@@ -16,30 +16,30 @@
 - ## Solution:
 ```cpp
 class Solution {
-			public:
-				string mergeAlternately(string word1, string word2) 
-				{
-					int s1=word1.size();
-					int s2=word2.size();
-					string ans;
-					for(int i=0;i<min(s1,s2);i++)
-					{
-						ans.push_back(word1[i]);
-						ans.push_back(word2[i]);
-					}
-					if(s1>s2)
-					{
-						for(int i=s2;i<s1;i++)
-							ans.push_back(word1[i]);
-					}
-					else if(s2>s1)
-					{
-						for(int i=s1;i<s2;i++)
-							ans.push_back(word2[i]);
-					}
-					return ans;
-				}
-			};
+public:
+      string mergeAlternately(string word1, string word2) 
+	{
+	 int s1=word1.size();
+	 int s2=word2.size();
+	 string ans;
+	 for(int i=0;i<min(s1,s2);i++)
+		{
+		  ans.push_back(word1[i]);
+		  ans.push_back(word2[i]);
+		}
+	if(s1>s2)
+		{
+       		 for(int i=s2;i<s1;i++)
+		 ans.push_back(word1[i]);
+		}
+	else if(s2>s1)
+		{
+		 for(int i=s1;i<s2;i++)
+		 ans.push_back(word2[i]);
+		}
+		return ans;
+		}
+	};
  ```
  
  ## Tags
