@@ -60,6 +60,13 @@
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day7/Matrix%20Diagonal%20Sum.md) | Easy |
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day7/Reshape%20the%20Matrix.md) | Easy |
 
+---
+- ## String (Day8)
+| #           | Title                                       | Solution  | Difficulty|
+| ----------- | -----------                                 |-----------|---------- |
+| 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day8/Merge%20Strings%20Alternately.md) | Easy |
+| 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day8/Goal%20Parser%20Interpretation.md) | Easy |
+| 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day8/Find%20the%20Difference.md) | Easy |
 
 
 
