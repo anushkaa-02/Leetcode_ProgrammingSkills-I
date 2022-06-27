@@ -68,6 +68,14 @@
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day8/Goal%20Parser%20Interpretation.md) | Easy |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day8/Find%20the%20Difference.md) | Easy |
 
+---
+- ## String (Day9)
+| #           | Title                                       | Solution  | Difficulty|
+| ----------- | -----------                                 |-----------|---------- |
+| 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day9/To%20Lower%20Case.md) | Easy |
+| 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day9/Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping.md) | Easy |
+| 953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day9/Verifying%20an%20alien%20dictionary.md) | Easy |
+
 
 
 
