@@ -1,0 +1,1 @@
+# Verifying an alien dictionary
