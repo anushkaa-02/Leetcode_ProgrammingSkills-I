@@ -76,6 +76,24 @@
 | 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day9/Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping.md) | Easy |
 | 953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day9/Verifying%20an%20alien%20dictionary.md) | Easy |
 
+---
+- ## Linked List & Tree (Day10)
+| #           | Title                                       | Solution  | Difficulty|
+| ----------- | -----------                                 |-----------|---------- |
+| 1290 | [Convert Binary Number in a Linked list to integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day10/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.md) | Easy |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day10/Middle%20of%20the%20Linked%20List.md) | Easy |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day10/Maximum%20Depth%20of%20Binary%20Tree.md) | Easy |
+| 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day10/Sum%20of%20Left%20Leaves.md) | Easy |
+
+
+---
+- ## Containers & Libraries (Day11)
+| #           | Title                                       | Solution  | Difficulty|
+| ----------- | -----------                                 |-----------|---------- |
+| 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day11/Sort%20Integers%20by%20The%20Number%20of%201%20Bits.md) | Easy |
+| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day11/Implement%20Queue%20using%20Stacks.md) | Easy |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day11/Valid%20Anagram.md) | Easy |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day11/Contains%20Duplicate.md) | Easy |
 
 
 
