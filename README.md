@@ -95,5 +95,13 @@
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day11/Valid%20Anagram.md) | Easy |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day11/Contains%20Duplicate.md) | Easy |
 
+---
+- ## Class & Object (Day12)
+| #           | Title                                       | Solution  | Difficulty|
+| ----------- | -----------                                 |-----------|---------- |
+| 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day12/Design%20Parking%20system.md) | Easy | 
+| 303 | [Range Sum Query](https://leetcode.com/problems/range-sum-query-immutable/) | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-I/blob/main/leetcode_Solutions/Day12/Range%20Sum%20Query%20-%20Immutable.md) | Easy |
+
+
 
 
